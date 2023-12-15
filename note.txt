@@ -1,0 +1,2 @@
+I'm using python==3.11
+pickle is part of the standard library in Python for a very long time now so there is no need to install it via pip.
